@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>authors</title>
+</head>
+<body>
+  <table style="width:100%">
+  <tr align="left">
+    <th>Author_Name</th> 
+    <th>Count Total Post</th>
+  </tr>
+  {% for data in data_authors %}
+  <tr>
+    <td>{{ data['name'] }}</td>
+    <td>{{ data['posts'] }}</td>
+  </tr>
+  {% endfor %}
+</table>
+
+</body>
+</html>
