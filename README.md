@@ -5,7 +5,7 @@
 		a)fetches a list of authors from a request to  https://jsonplaceholder.typicode.com/users
       	b) fetches a list of posts from a request to https://jsonplaceholder.typicode.com/posts
        	c) Respond with only a list of authors and the count of their posts(a newline for each author).
-	Task_3]Set a simple cookie (if it has not already been set) at http://localhost:5000/setcookie with the following values:name=<Uddhav> and age=<21>.
+	Task_3]Set a simple cookie (if it has not already been set) at http://localhost:5000/setcookie with the following 		   	 values:name=<Uddhav> and age=<21>.
 	Task_4]Fetch the set cookie with http://localhost:5000/getcookies and display the stored key-values in it.
 	Task_5]Deny requests to your http://localhost:5000/robots.txt page. 
 	Task_6] Render an HTML page at http://localhost:5000/html.
