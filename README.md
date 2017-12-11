@@ -1,5 +1,5 @@
 # HPDF-task-for-week-1		
-	The work is done in the language Python-Flask which contains the number of tasks.All the tasks are located in the app.py file.
+	The work is done in the language Python(Flask-framework) which contains the number of tasks.All the tasks are located in the app.py file.
 	Task_1]A simple hello-world at http://localhost:5000/ that displays a simple string like "Hello World-Uddhav".
 	Task_2]Add a route, for e.g. http://localhost:5000/authors which: 		
 		a)fetches a list of authors from a request to  https://jsonplaceholder.typicode.com/users
