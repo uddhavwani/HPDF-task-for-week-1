@@ -1,5 +1,7 @@
-# HPDF-task-for-week-1		
-	The work is done in the language Python(Flask-framework) which contains the number of tasks.All the tasks are located in the app.py file.
+# HPDF-task-for-week-1	
+'''
+The work is done in the language Python(Flask-framework) which contains the number of tasks.All the tasks are located in the app.py file.
+'''
 ##Desription
 This repository contains tasks that I have worked on during HPDF Week 1 
 ##Requires
