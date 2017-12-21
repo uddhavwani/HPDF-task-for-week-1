@@ -1,7 +1,5 @@
-      # HPDF-task-for-week-1	
-```
+# HPDF-task-for-week-1	
 The work is done in the language Python(Flask-framework) which contains the number of tasks.All the tasks are located in the app.py file.
-```
 ---
 ##Desription
 ```
